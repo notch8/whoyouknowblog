@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/2012/10/13/night-one-eager-to-start/</loc>
+        <loc>http://blog.whoyouknow.in/blog/2012/10/13/night-one-eager-to-start/</loc>
         <lastmod>2012-10-13T14:07:55-07:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/2012/10/13/night-one-wow/</loc>
+        <loc>http://blog.whoyouknow.in/blog/2012/10/13/night-one-wow/</loc>
         <lastmod>2012-10-13T14:07:50-07:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
+        <loc>http://blog.whoyouknow.in/blog/archives/</loc>
         <lastmod>2012-10-13T14:07:55-07:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
+        <loc>http://blog.whoyouknow.in/</loc>
         <lastmod>2012-10-13T14:07:55-07:00</lastmod>
     </url>
 </urlset>
