@@ -4,7 +4,7 @@
   <title><![CDATA[The Who You Now Dev Blog]]></title>
   <link href="http://blog.whoyouknow.in/atom.xml" rel="self"/>
   <link href="http://blog.whoyouknow.in/"/>
-  <updated>2012-10-14T16:07:18-07:00</updated>
+  <updated>2012-10-14T16:19:29-07:00</updated>
   <id>http://blog.whoyouknow.in/</id>
   <author>
     <name><![CDATA[Team PDXCubano]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Day Three - How Many APIs can We Get Banned From in a Weekend?]]></title>
+    <link href="http://blog.whoyouknow.in/blog/2012/10/14/day-three-how-many-apis-can-we-get-banned-from-in-a-weekend/"/>
+    <updated>2012-10-14T16:16:00-07:00</updated>
+    <id>http://blog.whoyouknow.in/blog/2012/10/14/day-three-how-many-apis-can-we-get-banned-from-in-a-weekend</id>
+    <content type="html"><![CDATA[<p><img src="http://blog.whoyouknow.in/images/photo3.jpg" alt="Panera Working" /></p>
+
+<p>&#8220;So how many APIs have we been banned from so far?&#8221;</p>
+
+<p>&#8220;Two&#8230; three if you count Nic&#8217;s LinkedIn banning&#8221;</p>
+
+<p>&#8220;That&#8217;s the real compition. Getting banned from as many APIs as possible = winning the rumble right?&#8221;</p>
+
+<ul>
+<li>Rob</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Day Three - The Rough Start]]></title>
