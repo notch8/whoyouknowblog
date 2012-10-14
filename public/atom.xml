@@ -4,7 +4,7 @@
   <title><![CDATA[The Who You Now Dev Blog]]></title>
   <link href="http://blog.whoyouknow.in/atom.xml" rel="self"/>
   <link href="http://blog.whoyouknow.in/"/>
-  <updated>2012-10-14T01:29:25-07:00</updated>
+  <updated>2012-10-14T16:00:01-07:00</updated>
   <id>http://blog.whoyouknow.in/</id>
   <author>
     <name><![CDATA[Team PDXCubano]]></name>
@@ -14,15 +14,29 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Day Three - The Rough Start]]></title>
+    <link href="http://blog.whoyouknow.in/blog/2012/10/14/day-three-a-rough-start/"/>
+    <updated>2012-10-14T15:17:00-07:00</updated>
+    <id>http://blog.whoyouknow.in/blog/2012/10/14/day-three-a-rough-start</id>
+    <content type="html"><![CDATA[<p>This morning was a rough one.  We were so tired last night that we didn&#8217;t really set up when and how we&#8217;d get together today. This morning it was like herding cats.  Speaking of cats, we tried a coffee shop to keep Nic from having an allergy attack, but the one we chose had no WIFI and closed at 3.  After our double fail we ended up finally all getting together at 12:30 at a <a href="http://paneracares.org">Panera Cares</a>, which is a really cool charity arm of Panera where folks donate what they can for their meals when they can.  What a great atmosphere for us to sprint to the finish.</p>
+
+<ul>
+<li>Rob</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Night Two - Burning the Midnight Oil]]></title>
     <link href="http://blog.whoyouknow.in/blog/2012/10/14/night-two-burning-the-midnight-oil/"/>
     <updated>2012-10-14T01:20:00-07:00</updated>
     <id>http://blog.whoyouknow.in/blog/2012/10/14/night-two-burning-the-midnight-oil</id>
     <content type="html"><![CDATA[<p><img src="http://blog.whoyouknow.in/images/photo2.jpg" alt="Developers Working" /></p>
 
-<p>Huge developer day today.  David, Nic and I pushed hard all day long, breaking only for Mexican food and coffee.  We have a styles in place, the vast majority of the backend work done and a really solid experiance. It was a huge moment when we each loaded up our LinkedIn profiles and saw that we all actually had matches with our data! It really felt good to validate the concept and see actually interesting results right off the bat.</p>
+<p>Huge developer day today.  David, Nic and I pushed hard all day long, breaking only for Mexican food and coffee.  We have a styles in place, the vast majority of the backend work done and a really solid experiance. It was a huge moment when we each loaded up our LinkedIn profiles and saw that we all actually had matches with our data! It really felt good to validate the concept and see interesting results right off the bat.</p>
 
-<p>Our team was finally fully assibled around 10:00 pm tonight as Matt&#8217;s flight got it and he made his way to the dev cave. The four of us have talked about when to feature freeze (1pm tomorrow) and what fancy things we&#8217;d like to add now that the basic features are all up.  Favorites, the last of the prediscussed features, is getting wrapped up right now and then it is time for some sleep.</p>
+<p>Our team was finally fully assembled around 10:00 pm tonight as Matt&#8217;s flight got it and he made his way to the dev cave. The four of us have talked about when to feature freeze (1pm tomorrow) and what fancy things we&#8217;d like to add now that the basic features are all up.  Favorites, the last of the prediscussed features, is getting wrapped up right now and then it is time for some sleep.</p>
 
 <ul>
 <li>Rob</li>

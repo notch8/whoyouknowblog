@@ -1,10 +1,28 @@
-@import "compass";
-@include global-reset;
-@include reset-html5;
+body {
+  background-image: url(/images/wood2.jpg);
+  background-repeat: repeat-x;
+  background-attachment: fixed;
+  background-color:#000;
+  display: block;
+}
 
-@import "custom/colors";
-@import "custom/fonts";
-@import "custom/layout";
-@import "base";
-@import "partials";
-@import "custom/styles";
+#main {
+  padding: 90px 40px;
+  background-color: #FFF;
+}
+
+#vote-for-us {
+  width: auto;
+  height: auto;
+  position: fixed;
+  top: 0px;
+  right: 0;
+  z-index: 1200;
+  cursor:pointer;
+}
+
+@media (max-width: 1330px) {
+  #vote-for-us a img {
+    width: 100px;
+  }
+}

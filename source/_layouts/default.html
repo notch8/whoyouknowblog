@@ -1,8 +1,15 @@
 {% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
 {% include head.html %}
 <body {% if page.body_id %} id="{{ page.body_id }}" {% endif %} {% if page.sidebar == false %} class="no-sidebar" {% endif %} {% if page.sidebar == 'collapse' or site.sidebar == 'collapse' %} class="collapse-sidebar sidebar-footer" {% endif %}>
+  <div id="vote-for-us"
+    <a href="http://railsrumble.com/entries/362-whoyouknow-in" target='_blank'>
+      <img src='/images/vote_for_us.png'>
+    </a>
+  </div>
+
   <nav role="navigation">{% include navigation.html %}</nav>
-  <div class="container">
+  <div id="main" class="container">
+    <img id='owl' src='/images/logo-owl-silo.png'>
     <div class="row-fluid">
       {{ content | expand_urls: root_url }}
     </div>
