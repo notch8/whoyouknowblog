@@ -4,7 +4,7 @@
   <title><![CDATA[The Who You Now Dev Blog]]></title>
   <link href="http://blog.whoyouknow.in/atom.xml" rel="self"/>
   <link href="http://blog.whoyouknow.in/"/>
-  <updated>2012-10-14T16:19:29-07:00</updated>
+  <updated>2012-10-14T16:30:42-07:00</updated>
   <id>http://blog.whoyouknow.in/</id>
   <author>
     <name><![CDATA[Team PDXCubano]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Day Three - The Screenshot]]></title>
+    <link href="http://blog.whoyouknow.in/blog/2012/10/14/day-three-the-screenshot/"/>
+    <updated>2012-10-14T16:26:00-07:00</updated>
+    <id>http://blog.whoyouknow.in/blog/2012/10/14/day-three-the-screenshot</id>
+    <content type="html"><![CDATA[<p><img src="http://blog.whoyouknow.in/images/00000384.png" alt="Final Shot Before Submission" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Day Three - How Many APIs can We Get Banned From in a Weekend?]]></title>
