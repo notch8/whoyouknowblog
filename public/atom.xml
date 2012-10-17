@@ -4,7 +4,7 @@
   <title><![CDATA[The Who You Now Dev Blog]]></title>
   <link href="http://blog.whoyouknow.in/atom.xml" rel="self"/>
   <link href="http://blog.whoyouknow.in/"/>
-  <updated>2012-10-16T07:22:00-07:00</updated>
+  <updated>2012-10-17T07:36:51-07:00</updated>
   <id>http://blog.whoyouknow.in/</id>
   <author>
     <name><![CDATA[The It's Who You Know Team]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Voting Howto]]></title>
+    <link href="http://blog.whoyouknow.in/blog/2012/10/17/voting-howto/"/>
+    <updated>2012-10-17T07:09:00-07:00</updated>
+    <id>http://blog.whoyouknow.in/blog/2012/10/17/voting-howto</id>
+    <content type="html"><![CDATA[<iframe width="640" height="390" src="http://www.youtube.com/embed/wFn6IDasLu4 " frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+<p>Here&#8217;s a quick walkthrough of the voting process for the Rails Rumble 2012.  The organizers have done a great job shaking things up this year, but they still rely on us to checkout the apps and vote on our favorites.  Check it out if you want a preview of how voting goes before you make your decisions.</p>
+
+<p>&#8211;Matt</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Day Three - The Screenshot]]></title>
